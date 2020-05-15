@@ -1,0 +1,15 @@
+@media (min-width: 576px) {
+
+    .btn-nav {
+        width: 300px;
+    }
+
+    .container {
+        max-width: 600px;
+    }
+
+    .footer-container {
+        justify-content: space-around;
+    }
+
+}

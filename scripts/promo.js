@@ -1,0 +1,1 @@
+let promo = new GetPromo()
