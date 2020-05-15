@@ -55,7 +55,7 @@ class GetPromo {
     // Fetch API
     getApi(value = 0) {
 
-        fetch('http://www.mocky.io/v2/5bc3b9cc30000012007586b7')
+        fetch('https://www.mocky.io/v2/5bc3b9cc30000012007586b7')
 
             .then(response => {
 
